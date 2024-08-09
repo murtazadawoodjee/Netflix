@@ -131,6 +131,7 @@ body {
 #button1{
     display: inline-flex;
     flex-direction: row;
+    border-color: white;
     align-items: center;
     justify-content: center;
     background-color: #e50914;
